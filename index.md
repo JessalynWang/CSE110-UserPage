@@ -1,14 +1,14 @@
-# :wave: Hello, I'm Jessalyn Wang
+# 👋 Hello, I'm Jessalyn Wang
 
 `System.out.println("Welcome to my CSE 110 user page!");`
 
-## :penguin: About me
+## 🐧 About me
 
 I'm a 4<sup>th</sup> year CS major interested in HCI, Neurotechnology, and Sustainability. In my free time I love exploring new places, trying new foods, and reading. I am an aspiring ~~couch potato~~ Software Engineer and hope to work on large scale, impactful projects.
 
 > ###### Fun fact: My family has a really cute dog! [pictures below](#dog-大王s-image-gallery)
 
-## :computer: Experience
+## 💻 Experience
 
 ### Skills
 
@@ -33,7 +33,7 @@ On campus I am in Triton Neurotech (we do cool things related to BCI and EEG dat
 
 [^1]: Checkout T4G [here](https://tech4good.soe.ucsc.edu/#/)!
 
-## :swimming_woman: Random Facts
+## 🏊‍♀️ Random Facts
 
 1. In high school I swam and played water polo
 2. My favorite animals are penguins
@@ -45,7 +45,7 @@ On campus I am in Triton Neurotech (we do cool things related to BCI and EEG dat
 - [ ] Go on a cruise to Alaska
 - [ ] Adopt a cat
 
-## :dog: 大王's Image Gallery
+## 🐶 大王's Image Gallery
 
 [click me for more photos >:3](dogPics.md)
 
