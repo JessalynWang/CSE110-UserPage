@@ -6,7 +6,7 @@
 
 I'm a 4<sup>th</sup> year CS major interested in HCI, Neurotechnology, and Sustainability. In my free time I love exploring new places, trying new foods, and reading. I am an aspiring ~~couch potato~~ Software Engineer and hope to work on large scale, impactful projects.
 
-> ###### Fun fact: My family has a really cute dog! [pictures below](#dog-大王s-image-gallery)
+> ###### Fun fact: My family has a really cute dog! [pictures below](#大王s-image-gallery)
 
 ## 💻 Experience
 
