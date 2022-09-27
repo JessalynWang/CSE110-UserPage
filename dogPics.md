@@ -1,4 +1,4 @@
-# :camera: 大王's Image Gallery Pt. 2
+# 📸 大王's Image Gallery Pt. 2
 
 ![anger dog](/assets/anger_dog.jpg)
 ![asleep dog](/assets/asleep_dog.jpg)
